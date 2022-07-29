@@ -18,4 +18,5 @@ Open ```http://127.0.0.1:8000/``` in your web browser.
 
 ## Tools
 * [XAMPP](https://apachefriends.org/)
+* [Composer](https://getcomposer.org/)
 * [git](https://git-scm.com/)
